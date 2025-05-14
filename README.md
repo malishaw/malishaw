@@ -1,5 +1,9 @@
 <!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4e8cff,100:1ccbcf&height=200&section=header&text=Hi%20there!%20I'm%20[Your%20Name]%20👋&fontColor=ffffff&fontSize=30&fontAlignY=40)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4e8cff,100:1ccbcf&height=200&section=header&text=Hi%20there!%20I'm%20Malisha%20👋&fontColor=ffffff&fontSize=30&fontAlignY=40)
+
+<p align="right">  
+  <img src="https://komarev.com/ghpvc/?username=malishaw&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ### 👨‍💻 About Me
 
@@ -21,6 +25,13 @@ I love creating scalable apps for real-world problems – from **ERP systems for
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Riverpod](https://img.shields.io/badge/Riverpod-86D1F9?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**MERN Stack:**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 **Tools:**
 
@@ -55,6 +66,7 @@ I love creating scalable apps for real-world problems – from **ERP systems for
 - 🌐 [Portfolio](https://donext.org)
 - 💼 [LinkedIn](https://linkedin.com/in/malishaw)
 - 📧 malisha@donext.org
+- 📱 +94 770 079 697
 
 ---
 
