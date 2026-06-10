@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,50:1D9E75,100:5DCAA5&height=180&section=header&text=Malisha%20Wijesekera&fontColor=ffffff&fontSize=36&fontAlignY=38&desc=Flutter%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descColor=d0f5ea&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,50:1D9E75,100:5DCAA5&height=180&section=header&text=Malisha%20Wimalawardena&fontColor=ffffff&fontSize=36&fontAlignY=38&desc=Flutter%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descColor=d0f5ea&descSize=16" width="100%" />
 
 </div>
 
